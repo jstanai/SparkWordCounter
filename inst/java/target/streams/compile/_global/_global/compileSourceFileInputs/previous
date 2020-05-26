@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.0":{"hashes":[["/Users/Jared/GitHub/RPackageWrapperForSpark/SparkWordCounter/inst/java/count_words.scala","cf2aca03be6913c5202cf3f4a51291e95ab0f660"]],"lastModifiedTimes":[]}}]

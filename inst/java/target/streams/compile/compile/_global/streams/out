@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/Jared/GitHub/RPackageWrapperForSpark/SparkWordCounter/inst/java/count_words.scala:16:31: not found: value path[0m
+[0m[[0m[31merror[0m] [0m[0m      val input = sc.textFile(path)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
