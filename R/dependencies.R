@@ -1,4 +1,4 @@
-spark_depenencies <- function(spark_version, scala_version, ...) {
+spark_dependencies <- function(spark_version, scala_version, ...) {
   sparklyr::spark_dependency(
     jars = c(
       system.file(

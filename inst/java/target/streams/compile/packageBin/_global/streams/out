@@ -1,15 +1,13 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/Jared/GitHub/RPackageWrapperForSpark/SparkWordCounter/inst/java/target/scala-2.11/count_words_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/Jared/GitHub/SparkWordCounter/inst/java/target/scala-2.11/count_words_2.11-1.0.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Example[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/RPackageWrapperForSpark/SparkWordCounter/inst/java/target/scala-2.11/classes/Example[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Example/SparkWordCount.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/RPackageWrapperForSpark/SparkWordCounter/inst/java/target/scala-2.11/classes/Example/SparkWordCount.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Example/SparkWordCount$$anonfun$2.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/RPackageWrapperForSpark/SparkWordCounter/inst/java/target/scala-2.11/classes/Example/SparkWordCount$$anonfun$2.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Example/SparkWordCount$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/RPackageWrapperForSpark/SparkWordCounter/inst/java/target/scala-2.11/classes/Example/SparkWordCount$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Example/SparkWordCount$$anonfun$3.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/RPackageWrapperForSpark/SparkWordCounter/inst/java/target/scala-2.11/classes/Example/SparkWordCount$$anonfun$3.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Example/SparkWordCount$$anonfun$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/RPackageWrapperForSpark/SparkWordCounter/inst/java/target/scala-2.11/classes/Example/SparkWordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkWordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/SparkWordCounter/inst/java/target/scala-2.11/classes/SparkWordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkWordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/SparkWordCounter/inst/java/target/scala-2.11/classes/SparkWordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkWordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/SparkWordCounter/inst/java/target/scala-2.11/classes/SparkWordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkWordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/SparkWordCounter/inst/java/target/scala-2.11/classes/SparkWordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkWordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jared/GitHub/SparkWordCounter/inst/java/target/scala-2.11/classes/SparkWordCount$$anonfun$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
